@@ -1,0 +1,10 @@
+body {
+    background: url("../../public/alvan-nee-1VgfQdCuX-4-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:rgba(76, 63, 63, 0.158);
+    backdrop-filter: blur(8px) brightness(0.96) grayscale(15%) sepia(15%);
+    height: 150vh;
+
+  }
